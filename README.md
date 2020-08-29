@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 some section
+added info
+
+## added something
+some new section
